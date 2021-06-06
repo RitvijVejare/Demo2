@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Libraries used:
+MaterialUI, React-Router
+
+# Steps to run
+Clone the entire code from the repo. Run the command 'npm install' to install all the node modules. Now run the command 'npm start' to start the project.
